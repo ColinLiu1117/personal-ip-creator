@@ -1,6 +1,11 @@
 ---
-name: personal-ip-creator
+name: "personal-ip-creator"
 description: "通过自适应访谈创建动画或Q版人类个人IP，交付四视图和标志性细节设定；按名称调用已保存IP生成头像、表情和静态配图，并维护角色版本与参考资产。用于创建个人IP形象或明确调用命名IP创作，不用于一般无角色约束的绘图。"
+version: "1.0.0"
+display_name: "个人 IP 创作"
+display_name_en: "Personal IP Creator"
+description_zh: "通过自适应访谈创建动画或Q版人类个人IP，生成四视图与标志性细节设定，并按名称调用已保存角色创作头像、表情和静态配图，管理版本与参考资产。"
+description_en: "Create anime-style or chibi human personal IP characters through adaptive interviews, produce four-view character sheets and signature details, and reuse named characters for avatars, expressions, and static illustrations with versioned reference assets."
 ---
 
 # 个人 IP 创作
